@@ -21,7 +21,7 @@ Hi, I'm Trong Dat - graduated student from University of Technology Sydney (UTS)
 
 ---
 ## Github Stats
-[![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=dat09loz)](https://github.com/dat09loz)
+[![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=dat09loz&show_icons=true&theme=tokyonight)](https://github.com/dat09loz)
 
 <br>
 
