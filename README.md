@@ -1,13 +1,13 @@
 # Hi there, I'm Trong Dat (Isaac) 👋
 ---
 ## About me
-Hi, I'm Trong Dat - graduated student from University of Technology Sydney (UTS), majoring in Networking, Cybersecurity & Software Dev. I like trying out with different technologies, touching electronics and currently pushing myself to build something using the skills that I've learned so far.
+Hello, I'm Isaac, a recent graduate from the University of Technology Sydney (UTS) with a major in Networking, Cybersecurity, and Software Development. Passionate about technology, I enjoy delving into various domains, exploring electronics, and continuously challenging myself to build impactful applications using the skills I've acquired. As an aspiring (and soon to be) full stack developer, I'm dedicated to continuous learning and eager to collaborate with like-minded developers, and also having fun in the process.
 
 ---
 ## I'm busy ...
-- 🔭 Working on trying to score a job in software dev
-- 🌱 Learning and improving in C#, Python & Webdev
-- 💻 Expanding my brain (in about anything)
+- 🔭 Working on trying to score a job as a **fullstack**/backend/frontend dev
+- 🌱 Learning and improving in C#, Python, Webdev & NextJS framework
+- 💻 Expanding my knowledge (in about anything)
 
 ---
 ## Tech Stack
@@ -27,7 +27,7 @@ Hi, I'm Trong Dat - graduated student from University of Technology Sydney (UTS)
 
 <p align="center">
   <b>
-    <i>"Always jump head first without thinking, can't quit halfway 'cause I'm too far in..."</i>
+    <i>Generating quote...</i>
   </b>
 </p>
 
