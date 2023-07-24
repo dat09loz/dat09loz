@@ -31,6 +31,10 @@ Hello, I'm Isaac, a recent graduate from the University of Technology Sydney (UT
   </b>
 </p>
 
+<br>
+
+![counter](https://enrpsnu3lsw6a8c.m.pipedream.net)
+
 <!--
 **dat09loz/dat09loz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
