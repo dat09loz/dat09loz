@@ -1,13 +1,16 @@
 # Hi there, I'm Trong Dat (Isaac) 👋
 ---
 ## About me
-Hello, I'm Isaac, a recent graduate from the University of Technology Sydney (UTS) with a major in Networking, Cybersecurity, and Software Development. Passionate about technology, I enjoy delving into various domains, exploring electronics, and continuously challenging myself to build impactful applications using the skills I've acquired. As an aspiring (and soon to be) full stack developer, I'm dedicated to continuous learning and eager to collaborate with like-minded developers, and also having fun in the process.
+Hello, I'm Isaac, a recent graduate from the University of Technology Sydney (UTS) with a major in Networking, Cybersecurity, and Software Development. Passionate about technology, I enjoy delving into various domains, exploring electronics, and continuously challenging myself to build impactful applications using the skills I've acquired. Now I am already working full-time as a C++/C# programmer, I am still dedicating myself to continuous learning and eager to collaborate with like-minded developers, and also having fun in the process.
 
 ---
 ## I'm busy ...
-- 🔭 Working on trying to score a job as a **fullstack**/backend/frontend dev
-- 🌱 Learning and improving in C#, Python, Webdev & NextJS framework
-- 💻 Expanding my knowledge (in about anything)
+- 💻 Learn about + work on emulations.
+- 🎵 Learn music theory + play an instrument
+- 🔭 Aim to learn more 
+- 🌱 Improving my skills
+
+^^^ they all sound the same ^^^
 
 ---
 ## Tech Stack
@@ -27,7 +30,7 @@ Hello, I'm Isaac, a recent graduate from the University of Technology Sydney (UT
 
 <p align="center">
   <b>
-    <i>Generating quote...</i>
+    <i>Generating thought provoking, life changing, definitely not "written" by "AI", quotes...</i>
   </b>
 </p>
 
